@@ -1,0 +1,145 @@
+h1
+{
+	color: chocolate;
+	font:cursive;
+	font-family: georgia;
+	border: solid;
+	border-style: double;
+	border-color: violet;
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    height: 40px;
+    width: 320px;
+    padding: 5px;
+    text-align: center;
+    /*padding-left: 30px;*/
+    margin-top: 50px;
+
+   
+ }
+ /*h1:hover
+ {
+ 	color:blue;
+ }*/
+h4{
+	color:blue;
+	font: bold;
+	
+}
+h2
+{
+	color:orange;
+	font:fantasy;
+	border-width: 1px;
+	border-style: double;
+	width: 250px;
+	height: 30px;
+	padding: 5px;
+	text-align: center;
+}
+h3
+{
+	color:rgb(60%,50%,78%);
+	width: 200px;
+	height: 30px;
+	font:cursive;
+	border:solid;
+	border-width: 1px;
+	border-color:rgba(40%,87%,56%,1); 
+	border-style:double;
+	text-align: center;
+}
+div{
+	color:powderblue;
+	font: sans-serif;
+	text-shadow: inherit;
+	font-size: 40px;
+	font-weight: bold;
+	line-height: 1;
+	text-align: left;
+}
+span
+{
+	color:violet;
+	font-size: 1.0em;
+	font:monospace;
+	text-align: center;
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: bolder;
+    line-height: 1;
+}
+body
+{
+	background-size: fill;
+	/**/
+	font-style:normal;
+	/*background-color: /*aqua**//*teal  lightslategray*//**//*/*cyan*//*aquamarine;*/
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9ReMjIjC4oCNjLTm3ZdUq5eak3MoBfMXLNvleOJFSLyibgw9n);
+	background-repeat: no-repeat;
+	background-size: 100% 100% /*cover*/;
+	font-size: 17px;
+}
+img
+{
+	hyphens: auto;
+	border-left-style: dotted;
+	box-shadow: hsl();
+	animation: running;
+	animation-direction: alternate-reverse;
+	align-self: stretch;
+}
+#special  /* //this is css selector*/
+{
+	font-style: oblique;
+	font-size-adjust: unset;
+	font-family: serif;
+	/*text-decoration-color: rgba();*/
+	text-decoration: blink;
+	text-shadow: transparent;
+	color: rgba(178,231,245,1.0);
+
+}
+#spec
+{
+	font-stretch: semi-expanded;
+	color: rgb(80%,90%,30%);
+}
+#sp
+{
+    font-stretch: semi-expanded;
+	color: rgb(80%,90%,30%);
+}	
+#sucolor
+{
+	color: rgb(95%,80%,85%);
+	font-family: italic;
+}
+.highlights
+{
+	color: rgba(96%,79%,53%,1);
+}
+tbody td
+{
+	width: 30px;
+	height: 30px;
+	background-color: blue;
+	border-left: 2px solid black;
+	/*border-right: 12px solid black;*/
+}
+thead td
+{
+	width:40px;
+	height: 40px;
+	background-color: pink;
+	border-left: 8px solid black;
+}
+/*tr
+{
+	width: 20px;
+	height:20px;
+	background-color: pink;
+	border-right: 3px solid black;
+}*8
+/* welcome in  first external  css,
